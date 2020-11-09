@@ -1,3 +1,2 @@
 # unity-shaders
-A bunch of shader examples created in Unity (ShaderGraph & Built-in) 🧙✨
-<img src="/readme-preview.png">
+## This is taking the Github Shader Jam and using it for shader development practice
